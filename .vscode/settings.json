@@ -1,0 +1,9 @@
+{
+    "cloudcode.kubeconfigs": [
+        {
+            "name": "c:\\Users\\Owing\\OneDrive\\Documentos\\GitHub\\Azure\\.vscode\\launch.json",
+            "configPath": "c:\\Users\\Owing\\OneDrive\\Documentos\\GitHub\\Azure\\.vscode\\launch.json"
+        }
+    ],
+    "cloudcode.active-kubeconfig": "c:\\Users\\Owing\\OneDrive\\Documentos\\GitHub\\Azure\\.vscode\\launch.json"
+}
